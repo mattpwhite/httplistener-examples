@@ -1,3 +1,7 @@
 /TestHttpListenerNetFx/obj
 /TestHttpListenerNetFx/.vs
 /TestHttpListenerNetFx/bin
+/TestHttpListenerNetCore/bin
+/TestHttpListenerNetCore/obj
+/.vs
+/TestHttpListenerNetCore/.vs
