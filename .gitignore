@@ -5,3 +5,10 @@
 /TestHttpListenerNetCore/obj
 /.vs
 /TestHttpListenerNetCore/.vs
+/HttpListenerServer/bin
+/HttpListenerServer/obj
+/HttpV2Server/.vs
+/HttpV2Server/Debug
+/HttpApiServer/.vs
+/HttpApiServer/Debug
+/HttpApiServer/HttpApiServer.vcxproj.filters
